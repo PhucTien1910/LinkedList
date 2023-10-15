@@ -5,3 +5,10 @@ D:\Phuc Tien\CTDL&GT TH\DSLKDon\DSLKDon\obj\Debug\DSLKDon.csproj.AssemblyReferen
 D:\Phuc Tien\CTDL&GT TH\DSLKDon\DSLKDon\obj\Debug\DSLKDon.csproj.CoreCompileInputs.cache
 D:\Phuc Tien\CTDL&GT TH\DSLKDon\DSLKDon\obj\Debug\DSLKDon.exe
 D:\Phuc Tien\CTDL&GT TH\DSLKDon\DSLKDon\obj\Debug\DSLKDon.pdb
+D:\Phuc Tien\CTDL&GT TH\LinkedList\DSLKDon\DSLKDon\bin\Debug\DSLKDon.exe.config
+D:\Phuc Tien\CTDL&GT TH\LinkedList\DSLKDon\DSLKDon\bin\Debug\DSLKDon.exe
+D:\Phuc Tien\CTDL&GT TH\LinkedList\DSLKDon\DSLKDon\bin\Debug\DSLKDon.pdb
+D:\Phuc Tien\CTDL&GT TH\LinkedList\DSLKDon\DSLKDon\obj\Debug\DSLKDon.csproj.AssemblyReference.cache
+D:\Phuc Tien\CTDL&GT TH\LinkedList\DSLKDon\DSLKDon\obj\Debug\DSLKDon.csproj.CoreCompileInputs.cache
+D:\Phuc Tien\CTDL&GT TH\LinkedList\DSLKDon\DSLKDon\obj\Debug\DSLKDon.exe
+D:\Phuc Tien\CTDL&GT TH\LinkedList\DSLKDon\DSLKDon\obj\Debug\DSLKDon.pdb
